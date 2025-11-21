@@ -10,7 +10,7 @@ This program is used to bridge with FMS and other AMR/AGV systems.
 A simple example program is used to simulate how their AMR/AGV sends out its spatial information and obtains whether it has right-of-way.
 
 ## FMS 
-If you want to add new AGVs to FMS for management, you must maintain other_robot_list.json. If it doesn't exist, you can rename other_robot_list.json to other_robot_list.json.bak.
+If you want to add new AGVs to FMS for management, you must maintain c:\manage_console\other_robot_list.json. If it doesn't exist, you can rename other_robot_list.json to other_robot_list.json.bak.
 The contents of the other_robot_list.json file are as follows:
 ```
 {
